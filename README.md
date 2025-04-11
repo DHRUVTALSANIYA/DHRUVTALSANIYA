@@ -35,13 +35,13 @@ Become an *SDET (Software Development Engineer in Test)*.
 ## 📂 My Repositories  
 Here are some of my repositories related to *QA, Manual Testing, and Automation*:  
 
-📜 *[Manual Test Report - Swag Labs Website](#)*  
+📜 *[Manual Test Report - Swag Labs Website](https://github.com/DHRUVTALSANIYA/PROJECT-1---SWAG-LAB-WEBSITE-MANUAL-TEST-REPORT)*  
 A detailed manual testing report for the Swag Labs website, covering *functional, UI, and security testing* with structured test cases.  
 
-📑 *[Instagram Manual Test Report (with Jira)](#)*  
+📑 *[Instagram Manual Test Report (with Jira)](https://github.com/DHRUVTALSANIYA/PROJECT-3-NSTAGRAM-LOGIN-PAGE-MANUAL-TESTING-USING-JIRA.-ZEPHYR-SCALE-)*  
 Comprehensive manual testing of the Instagram login page, managed using *Jira* for test cases, bug tracking, and execution.  
 
-📝 *[Instagram Manual Test Case Report](#)*  
+📝 *[Instagram Manual Test Case Report](https://github.com/DHRUVTALSANIYA/PROJECT-2--INSTAGRAM-LOGIN-PAGE-MANUAL-TEST-REPORT-)*  
 A detailed *test case report* for Instagram, documenting various test scenarios, including *login validation, password recovery, and UI consistency*.  
 
 🤖 *[Automation Testing with Selenium](#)*  
