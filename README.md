@@ -4,8 +4,8 @@
 
 💼 *Currently working at* **Softcolon Technologies**  
 
-🎯 **Goal for 2025**: Become an **SDET (Software Development Engineer in Test)**  
 
+🎯 **Goal for 2025**: Become an **SDET (Software Development Engineer in Test)**  
 ---
 
 ## **📊 GitHub Stats & Streak**  
